@@ -1,1 +1,1 @@
-this is used for smart mete
+this is used for smart meter app for flipper zero
